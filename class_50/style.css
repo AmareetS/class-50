@@ -1,0 +1,22 @@
+h1{
+    color:rgb(175, 143, 250)
+}
+*{border:solid aquamarine}
+.header{
+    background-color: rgb(251, 203, 164);
+    display:flex;
+    justify-content:space-between
+}
+p,h2{
+    text-align: center;
+}
+.grid{
+    background-color: rgb(119, 193, 223);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+   display:flex;
+   justify-content:flex-end; 
+}
